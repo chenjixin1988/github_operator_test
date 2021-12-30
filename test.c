@@ -17,4 +17,5 @@ int main(int argc, char *argv[])
     printf("hello\n");
     printf("master change num 1\n");
     printf("branch1\n");
+    printf("branch2 change num 1\n");
 }
